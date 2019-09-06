@@ -13,3 +13,7 @@ Pour chaque thème :
 Cécile : structure linéaire + while
 Sylvain : si alors sinon + boucle pour
 
+## structure linéaire
+lin01 : simples modifications de variables + une instruction de type b = b+c (comprendre que le '=' informatique est un opérateur spécifique d'affectation avec lecture droite vers gauche) + pas d'affichage pour montrer que si on n'affiche rien on ne voit rien sur la console !!
+
+
